@@ -1,0 +1,28 @@
+.header{
+    background-color: darkgreen;
+    border-bottom: black 2px solid;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: flex;
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header span{
+    font-size: 2rem;
+    color: white;
+    font-weight: 500;
+}
+
+.header nav{
+    margin-right: 5rem;
+}
+
+.header a{
+    text-decoration: none;
+    color: white;
+    padding-inline: 0.75;
+}
