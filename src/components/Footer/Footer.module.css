@@ -1,0 +1,26 @@
+.footer{
+<<<<<<< HEAD
+    position: fixed;
+=======
+    position: absolute;
+>>>>>>> f30de76a271ae8f2fdc84af4960c3971053043a8
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+<<<<<<< HEAD
+    background-color: black;
+    color: red;
+=======
+    background-color: #000;
+    color: #fff;
+>>>>>>> f30de76a271ae8f2fdc84af4960c3971053043a8
+    border-top: 2px solid red;
+    padding-block: 0.5rem;
+}
+
+.footer h2{
+    font-size: 1rem;
+    font-weight: 500;
+}

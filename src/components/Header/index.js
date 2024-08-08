@@ -2,11 +2,11 @@ import styles from "./Header.module.css";
 
 function Header(){
     return(
-        <header className={styles.header}>
-            <span>Ben 10</span>
-            <nav>  
-                    <a href="#">Home</a>
-                    <a href="#">Assistir</a>
+        <header className={styles.header} >
+            <span>EtecFlix</span>
+            <nav>
+                <a href="#">Home</a>
+                <a href="#">Assistir</a>
             </nav>
         </header>
     );
